@@ -1,0 +1,12 @@
+# Maven & Java
+/target/
+*.class
+*.log
+*.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS Files
+.DS_Store
